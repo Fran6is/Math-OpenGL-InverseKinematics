@@ -1,5 +1,5 @@
 
-# Inverse kinematics implementation 
+# Inverse kinematics implementation with OpenGL and C++
 
 <hr>
 
