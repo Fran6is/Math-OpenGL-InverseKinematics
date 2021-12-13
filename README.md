@@ -1,5 +1,5 @@
 
-# Rough / first implementation of inverse kinematics using OpenGL ( for drawing IK chain ) and C++ ( to setup bone hierarchy / movement )
+# Rough implementation of inverse kinematics using OpenGL ( for drawing IK chain ) and C++ ( to setup bone hierarchy / movement )
 
 <hr>
 
