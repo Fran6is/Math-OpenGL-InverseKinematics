@@ -1,5 +1,5 @@
 
-# Rough / first implementation of inverse kinematics using OpenGL ( for drawing IK chain ) and C++
+# Rough / first implementation of inverse kinematics using OpenGL ( for drawing IK chain ) and C++ ( for chain hierarchy / logic )
 
 <hr>
 
