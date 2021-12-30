@@ -1,5 +1,5 @@
 
-# Rough / first implementation of inverse kinematics using OpenGL ( for drawing IK chain ) and C++ ( for chain hierarchy / logic )
+# Rough implementation of inverse kinematics using OpenGL ( for drawing IK chain ) and C++ ( to setup bone hierarchy / movement )
 
 <hr>
 
@@ -10,6 +10,21 @@
 ***Windowing***: GLFW
 
 ***Math library***: GLM
+
+<hr>
+
+## CMake build (With CMake installed and command prompt opened in project's root directory)
+
+- Generate project files for x86 platform ( in this case win32 )
+```
+[Project root directory]: cmake . -B build -A Win32
+```
+- Build project
+```
+[Project root directory]: cmake --build build -t IK
+[Project root directory]: cd build/Debug
+[Project root directory / build / Debug]: IK
+```
 
 <hr>
 
